@@ -1,7 +1,7 @@
 {
-    "name": "fzaninotto/faker",
+    "name": "ryancwalsh/faker",
     "type": "library",
-    "description": "Faker is a PHP library that generates fake data for you.",
+    "description": "Faker is a PHP library that generates fake data for you. Forked from https://github.com/fzaninotto/Faker",
     "keywords": [
         "faker",
         "fixtures",
